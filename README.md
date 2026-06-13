@@ -106,6 +106,7 @@ Platforms for buying, selling, or exchanging AI skills.
 | [Skills Google](https://www.skills.google/) | Google's skill ecosystem |
 | [Skills MP](https://skillsmp.com/en) | Multi-platform marketplace |
 | [Skill AI](https://skillai.io/) | AI skill marketplace |
+| [CreatorSkills](https://creatorskills.co) | Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT. |
 
 ---
 
