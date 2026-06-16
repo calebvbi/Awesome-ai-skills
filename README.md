@@ -103,6 +103,7 @@ Platforms for buying, selling, or exchanging AI skills.
 
 | Resource | Description |
 |----------|-------------|
+| [CreatorSkills](https://creatorskills.co) | Marketplace for AI skill systems built for content creators — YouTube, Twitch, podcasts, newsletters, and course creators. Works with Claude, ChatGPT, Cursor, and Claude Code. One-time purchase, no subscription. |
 | [Skills Google](https://www.skills.google/) | Google's skill ecosystem |
 | [Skills MP](https://skillsmp.com/en) | Multi-platform marketplace |
 | [Skill AI](https://skillai.io/) | AI skill marketplace |
